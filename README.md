@@ -1,7 +1,7 @@
 Algorithms & Design Project
 
 This repository contains my project submission for Algorithms & Design, which received a score of 81%. The project involved applying algorithmic problem-solving techniques in C to real-world inspired scenarios based on manufacturing production line logs.
-Across four main tasks, I explored different approaches to efficiency and data handling. 
+       Across four main tasks, I explored different approaches to efficiency and data handling. 
 
 In the first task, I created a data structure for QA logs and implemented Merge Sort to order them by product ID, issue code, and timestamp, meeting the O(N log N) runtime requirement.
 
